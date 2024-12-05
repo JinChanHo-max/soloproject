@@ -43,27 +43,17 @@ body {
 .bigbox {
     padding: 10px 10px 10px 10px;
     height: 180px;
-    width: 100%;
     box-shadow: -3px 10px 50px #e5e5e5;
 
-}
-
-.trunk {
-    background: url(./media/숲.png) no-repeat;
-    background-size: 100%;
-    width: 100%;
-    height: 100vh;
-    color: #ffe6a7;
-    font-size: 150px;
-    position: relative;
-}
-
-.trunk div p {
-    position: absolute;
-    margin-top: 10%;
 }
 
 a{
     text-decoration: none;
     color: black;
+}
+
+.footer {
+    background-color: #ffe6a7;
+    padding: 10px;
+    text-align: center;
 }
